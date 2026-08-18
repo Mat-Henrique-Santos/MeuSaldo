@@ -2,7 +2,7 @@
 
 MeuSaldo é uma aplicação full stack para controle financeiro pessoal. O projeto permite cadastrar usuários, registrar receitas e despesas, visualizar saldo mensal, acompanhar gastos por categoria, criar metas financeiras e exportar relatórios em CSV ou PDF.
 
-Este projeto foi feito com foco em portfólio: simples de rodar localmente, com arquitetura clara e stack moderna.
+Este projeto foi feito com foco em portfólio: simples de rodar localmente, com arquitetura clara e  moderna.
 
 ## Funcionalidades
 
@@ -36,7 +36,7 @@ Este projeto foi feito com foco em portfólio: simples de rodar localmente, com 
 - Vite
 - Recharts
 - Lucide React
-- CSS puro
+- CSS 
 
 ### Backend
 
